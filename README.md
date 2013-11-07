@@ -2,15 +2,14 @@ CodeIgniter 2.1.4 and Bootstrap 3 with Font-awesome Glyphicons and Jquery
 ========================================================================================
 
 
-
-Introduction
+<h1>Introduction</h1>
 
 This is a ready to go codeigniter PHP framework with Bootstrap 3 and iconic font-awesome and glyphicons frameworks. Enjoy
 
 There's a homepage that you can check all contents working.
 
 
-Usage
+<h1>Usage</h1>
 
 Just copy it to your local or remote server and its ready to use.
 
